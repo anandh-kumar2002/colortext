@@ -1,0 +1,123 @@
+#word{
+    border: 2px solid red;
+    background-color: pink;
+}
+.text{
+    border: 2px;
+
+}
+.text h1 {
+     color:darkblue
+}
+.text p{
+    color: green;
+}
+.color h1{
+    background-color: black;
+    color:red
+}
+.color p{
+    background-color: blue;
+    color: red;
+}
+.center h5{
+     text-align:left;
+}
+.center h4{
+    text-align: right;
+}
+.center h3{
+    text-align: center;
+}
+.center{
+    border:2px solid blue;
+}
+.position h2{
+    text-align-last: center;
+
+}
+.position h4{
+    text-align-last:right;
+}
+.position h6{
+    text-align-last: left;
+}
+.position{
+    border: 3px solid green;
+}
+.cent h5{
+text-decoration:underline;
+}
+.cent{
+    border: 2px solid orange
+}
+.cent h2{
+    text-decoration: line-through;
+}
+.cent h3{
+    text-decoration:overline
+}
+.trans h3{
+text-transform: uppercase;
+}
+.trans h4{
+    text-transform: lowercase;
+}
+.trans h5{
+    text-transform: capitalize;
+}
+.trans{
+    border: 2px solid brown;
+}
+.para{
+    text-indent:30px;
+}
+.para1{
+    letter-spacing:20px ;
+}
+.para2{
+    word-spacing: 10px;
+}
+.para3{
+    white-space:nowrap;
+}
+.para4{
+    line-height:200% ;
+
+} 
+
+.ident{
+border: 2px solid violet;
+}
+
+.shadow{
+    border-style: dotted dashed inset;
+    border-color: red yellow blue orchid;
+    border-width: 3px 4px 5px 7px;
+
+}
+.shadow h1{
+    box-shadow: 5px 5px red, 10px 10px blue, 15px 15px green;
+}
+.shadow h2 {
+    text-shadow: 3px 0 10px red,0 4px 10px blue
+}
+
+.base h5 img{
+    height:20px;
+    width:20px;
+    vertical-align:super;
+}
+.base h4 img{
+    height:10px;
+    width: 10px;
+    vertical-align: text-top;
+}
+.base h3 img{
+    height:20px;
+    width:20px;
+    vertical-align:text-bottom;
+}
+.base{
+    border:3px solid darkgreen;
+}
